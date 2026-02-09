@@ -1,0 +1,39 @@
+Part A: Theory Questions
+Computer, Hardware, and Software
+A computer is an electronic device that accepts data, processes it according to instructions, and produces output.
+Hardware refers to the physical components of a computer, while software refers to the programs and applications that run on the hardware.
+Examples of hardware include keyboard, monitor, and hard drive.
+Examples of software include Windows OS, Microsoft Word, and Google Chrome.
+Operating System
+An operating system is system software that manages computer hardware and software resources.
+Two primary functions are managing memory/processes and providing an interface for users to interact with the computer.
+Differences Between Windows and Linux
+Windows is proprietary while Linux is open source.
+Windows is generally more user-friendly for beginners, while Linux is more flexible for developers.
+Linux is considered more secure and stable than Windows.
+Explanation of Terms
+A file is a collection of data stored on a computer.
+A folder (directory) is a container used to organize files.
+A file extension is the ending of a filename that shows the file type, such as .txt or .html.
+Command Line
+The command line is a text-based interface used to interact with the operating system by typing commands.
+It is important for developers because it allows faster control, automation, and access to powerful tools.
+Internet-Related Terms
+A server is a computer that provides data or services to other computers.
+A browser is an application used to access websites, such as Chrome or Firefox.
+An IP address is a unique number that identifies a device on a network.
+DNS translates domain names into IP addresses.
+HTTP is a protocol for transferring data, while HTTPS is the secure version that encrypts data.
+Client–Server Model
+In the client–server model, a client requests information and a server responds.
+For example, when you open a website, your browser (client) requests the page and the web server sends it back.
+Frontend vs Backend Development
+Frontend development deals with what users see and interact with.
+Backend development handles server logic, databases, and application functionality.
+Website, Domain, and Hosting
+A website is a collection of web pages.
+A domain is the website’s address.
+Hosting is the service that stores website files.
+They work together by linking the domain to hosted website files.
+Browser Rendering Process
+The browser requests a webpage, downloads HTML/CSS/JS, processes them, and displays the content visually to the user.
