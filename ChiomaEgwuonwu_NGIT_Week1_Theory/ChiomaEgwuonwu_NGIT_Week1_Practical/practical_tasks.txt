@@ -1,0 +1,23 @@
+File Management
+I created a folder named web_basics.
+Inside it, I created subfolders named notes, projects, and images.
+Inside the notes folder, I created a file called week1.txt.
+In the file, I wrote about learning basic computer concepts, file management, command line usage, and how the web works.
+Task 2: Command Line Practice
+Commands used and their functions:
+cd web_basics – Navigates into the web_basics folder
+mkdir cli_practice – Creates a new folder
+cd cli_practice – Moves into the cli_practice folder
+touch test.txt – Creates a file (or type nul > test.txt on Windows)
+mv test.txt myfile.txt – Renames the file
+ls or dir – Displays files and folders in the directory
+Task 3: VS Code Setup
+I installed Visual Studio Code and opened the web_basics folder.
+Inside the projects folder, I created a file named index.html.
+First line of HTML written:
+<h1>Hello World</h1>
+Task 4: Internet & Web Observation
+Website visited: google.com
+Domain name: google.com
+Protocol used: HTTPS
+When I press Enter, the browser sends a request to the server, the server processes it, and the webpage is returned and displayed.
